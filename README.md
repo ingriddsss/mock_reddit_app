@@ -1,4 +1,30 @@
-# Getting Started with Create React App
+# MockReddit
+
+A Reddit-like application.
+
+## Table of Contents
+
+- [MockReddit](#project-name)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Features](#features)
+  - [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [License](#license)
+  - [Acknowledgements](#acknowledgements)
+
+## Introduction
+
+A Codecademy project that demonstrates the fetching of posts from a Reddit API using Redux.
+
+## Features
+
+- Fetching post data from the Reddit API. 
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
